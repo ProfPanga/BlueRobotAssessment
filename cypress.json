@@ -1,0 +1,7 @@
+{
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "overwrite": true
+      },
+    "testFiles": "**/*.feature"
+}
