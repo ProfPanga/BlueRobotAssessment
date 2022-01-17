@@ -1,5 +1,6 @@
 {
-    "reporter": "mochawesome",
+  "projectId": "3di4mu",  
+  "reporter": "mochawesome",
     "reporterOptions": {
         "overwrite": true
       },
