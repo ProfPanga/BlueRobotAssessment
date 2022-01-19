@@ -24,8 +24,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run --spec \"**/*.feature\"",
-    "cy:dashboard": "cypress run --record --key 84ce921e-83b7-49f0-b4e7-98a3074726de"
+    "test": "cypress run --spec \"**/*.feature\""
   },
   "keywords": [],
   "author": "",
