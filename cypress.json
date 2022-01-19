@@ -1,8 +1,6 @@
 {
-  "projectId": "3di4mu",  
-  "reporter": "mochawesome",
-    "reporterOptions": {
-        "overwrite": true
-      },
-    "testFiles": "**/*.feature"
+  "projectId": "3di4mu",
+  "env": {
+    "CYPRESS_RECORD_KEY": "84ce921e-83b7-49f0-b4e7-98a3074726de"
+  }
 }
