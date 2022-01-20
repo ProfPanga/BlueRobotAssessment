@@ -4,7 +4,7 @@
     "@types/cucumber": "^7.0.0",
     "@types/mocha": "^9.0.0",
     "chai": "^4.3.4",
-    "cucumber": "^7.0.0-rc.0",
+    "cucumber": "^6.0.5",
     "cucumber-pretty": "^1.4.4",
     "cucumber-tsflow": "^4.0.0-preview.7",
     "cypress": "^9.1.1",
@@ -12,7 +12,7 @@
     "mochawesome": "^7.0.1",
     "mochawesome-merge": "^4.2.0",
     "ts-node": "^10.4.0",
-    "typescript": "^4.5.3"
+    "typescript": "^4.5.4"
   },
   "dependencies": {
     "cucumber-tsflow": "^4.0.0-preview.7",
